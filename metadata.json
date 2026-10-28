@@ -1,0 +1,6 @@
+{
+  "name": "CashCount AI",
+  "description": "Smart Indian currency cash calculator and money counter with instant denomination totals, receipt generation, and cash management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
